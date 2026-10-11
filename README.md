@@ -5,6 +5,6 @@
 
   # prostoeasy7's Website
 
-  Visit **[prostoeasy7.github.io/our_lab_website](https://prostoeasy7.github.io/our_lab_website)** 🚀
+  Visit **[ismoilovmk.github.io/our_lab_website](https://ismoilovmk.github.io/our_lab_website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
